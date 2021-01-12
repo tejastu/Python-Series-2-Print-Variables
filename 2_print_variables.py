@@ -1,9 +1,9 @@
-a = "Hello Tejas"
-p = 'Hello Tejas'
+a = "Hello Tejas"  # double clause
+p = 'Hello Tejas'  #single clause
 q = '''Hello 
-      Tejas'''
-b = 3456
-c = 90.45
+      Tejas'''   #multiline statements
+b = 3456    #int
+c = 90.45   #double
 x = True #boolean
 y = None #none
 
